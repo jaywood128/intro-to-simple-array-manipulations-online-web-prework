@@ -4,6 +4,3 @@ end
 def using_unshift(array, string)
   array.unshift(array)
 end
-def using_unshift
-
-end
